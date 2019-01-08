@@ -1,0 +1,1 @@
+include ':notification', ':toast', ':notification2', ':dialog', ':few_activity', ':intentfilter'

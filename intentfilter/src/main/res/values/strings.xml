@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intent filter</string>
+    <string name="title_activity_dateactivity">Dateactivity</string>
+    <string name="title_activity_time">TimeActivity</string>
+</resources>
